@@ -1,0 +1,66 @@
+1 - California
+2 - Oregon
+3 - Washington
+4 - Nevada
+5 - Arizona
+6 - Idaho
+7 - Utah
+8 - Montana
+9 - Wyoming
+10 - New Mexico
+11 - Colorado 
+12 - Texas
+13 - Nebraska
+14 - South Dakota
+15 - North Dakota
+16 - Oklahoma
+17 - Kansas
+18 - Minnesota
+19 - Iowa
+20 - Missouri
+21 - Arkansas
+22 - Louisiana
+23 - Wisconsin
+24 - Illinois
+25 - Missisipi
+26 - XXXXX Michigan
+27 - Tennessee
+28 - Kentucky
+29 - Indiana
+30 - Alabama
+31 - Michigan
+32 - Florida
+33 - Ohio
+34 - Georgia
+35 - North Carolina
+36 - Virginia
+37 - South Carolina
+38 - West Virginia
+39 - Pennsylvania
+40 - New York
+41 - XXXX Meryland
+42 - Meryland
+43 - Delware
+44 - New Jersey
+45 - XXXX Delware
+46 - Vermont
+47 - Massachusetts
+48 - Connecticut
+49 - New Hampshire
+50 - Maine
+51 - Rhode Island
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
