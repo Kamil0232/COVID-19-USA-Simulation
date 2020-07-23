@@ -37,7 +37,7 @@ epidemia = zeros(rozmiar, rozmiar);
 [epidemia, mapa_stanow_usa] = generuj_poczatek('states_square.jpg',rozmiar);
 epidemia = transpose(epidemia);
 mapa_stanow_usa = transpose(mapa_stanow_usa);
-liczbaCykli = 2; 
+liczbaCykli = 10; 
 [rozmiar_x, rozmiar_y] = size(epidemia);
 [country_x, country_y] = find(matrix);
 
